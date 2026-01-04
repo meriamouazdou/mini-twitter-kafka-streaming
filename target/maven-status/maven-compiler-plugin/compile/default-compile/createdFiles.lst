@@ -1,0 +1,5 @@
+com/isga/kafka/TweetConsumer.class
+com/isga/kafka/TweetProducer.class
+com/isga/kafka/App.class
+com/isga/kafka/TweetCountStream.class
+com/isga/kafka/TweetFilterStream.class
